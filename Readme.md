@@ -20,4 +20,4 @@ Everyone is invited to extend this thingie. Here are some things, that came into
 
 Yeah, license... [WTFPL][1]
 
-[1]: en.wikipedia.org/wiki/WTFPL
+[1]: http://en.wikipedia.org/wiki/WTFPL
